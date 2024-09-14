@@ -1,4 +1,4 @@
-# Gotcha!:)
+# Gotcha! :)
 ![looked](https://github.com/user-attachments/assets/9f5063c5-5bde-4462-831c-4a969bce3304)
 
 
