@@ -1,6 +1,6 @@
-## Hi there 👋
+![looked](https://github.com/user-attachments/assets/9f5063c5-5bde-4462-831c-4a969bce3304)
+# Gotcha :)
 
-![image](https://github.com/dominis/dominis/blob/main/q0dd3k02unqb1-462175760.gif)
 
 
 <!--
