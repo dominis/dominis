@@ -3,7 +3,7 @@
 
 
 > [!NOTE]
-> # Some projects:
+> # Some of my projects:
 > - **Incident Response:** Designed and built a fully automated incident response system for the largest bank in the Netherlands.
 > - **Load Test:** Designed and built a self-service load-testing environment for the world's largest energy company.
 > - **Cost Saving:** Built infrastructure for a high-traffic website, providing 99.99% uptime for nearly 5 years while reducing infrastructure costs from $30k/month to less than $1k/month.
