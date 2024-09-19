@@ -11,3 +11,9 @@
 > - **Open Source:** Early Ansible contributor and author of Ansible-shell.
 https://github.com/ansible/ansible/blob/devel/lib/ansible/cli/console.py#L2
 > - **Bonus:** Built a hosting company from scratch at 17, where I learned how to negotiate, issue invoices, and read contracts.
+
+
+
+> [!WARNING]
+>
+>  # Check out my next project: [🐻 BER: Cloud Autopilot](https://ber.sh)
