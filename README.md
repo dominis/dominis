@@ -3,14 +3,21 @@
 
 
 > [!NOTE]
-> # Some of my projects:
-> - **Incident Response:** Designed and built a fully automated incident response system for the largest bank in the Netherlands.
-> - **Load Test:** Designed and built a self-service load-testing environment for the world's largest energy company.
-> - **Cost Saving:** Built infrastructure for a high-traffic website, providing 99.99% uptime for nearly 5 years while reducing infrastructure costs from $30k/month to less than $1k/month.
-> - **Data/AI:** Built a face recognition platform from scratch, extracting 159 million faces from 25 million videos and developing a search engine on top of my model, with total infrastructure costs under $2k.
-> - **Open Source:** Early Ansible contributor and author of Ansible-shell.
-https://github.com/ansible/ansible/blob/devel/lib/ansible/cli/console.py#L2
-> - **Bonus:** Built a hosting company from scratch at 17, where I learned how to negotiate, issue invoices, and read contracts.
+> # About:
+> 20+ years of experience in large-scale infrastructure and cloud architecture  
+> Founded a hosting company and built a video streaming engine with bare-metal infrastructure  
+> Led infrastructure for the world’s largest blog network  
+> Developed a geo load-balancing layer without ELB  
+> Deployed full-stack systems for Europe’s largest TV streaming company  
+> Built a face recognition startup, extracting 125M faces from 25M videos  
+> Automated L1 incident management at scale for a major organization
+> Scaled infrastructure for a smart lock company under the world’s largest lock manufacturer
+> Delivered Kubernetes deployments for a major bank
+> Managed 900 Cassandra and 300 Solr clusters
+> Built infrastructure from scratch for a leading academic research startup
+> Designed and implemented automated load-testing for an energy company
+> Scaled infrastructure for Europe’s largest payment processor
+> Currently building [🐻 BER: Cloud Autopilot](https://ber.sh)
 
 
 
