@@ -6,8 +6,8 @@
 > # About:
 > - 20+ years of experience in large-scale infrastructure and cloud architecture  
 > - Founded a hosting company and built a video streaming engine with bare-metal infrastructure  
-> - Led infrastructure for the world’s largest blog network  
-> - Developed a geo load-balancing layer without ELB  
+> - Built infrastructure for the world’s largest blog network  
+> - Developed a geo load-balancing layer
 > - Deployed full-stack systems for Europe’s largest TV streaming company  
 > - Built a face recognition startup, extracting 125M faces from 25M videos  
 > - Automated L1 incident management at scale for a major organization
