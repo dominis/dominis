@@ -17,10 +17,3 @@
 > - Built infrastructure from scratch for a leading academic research startup
 > - Designed and implemented automated load-testing for an energy company
 > - Scaled infrastructure for Europe’s largest payment processor
-> - Currently building [🐻 BER: Cloud Autopilot](https://ber.sh)
-
-
-
-> [!WARNING]
->
->  # Check out my next project: [🐻 BER: Cloud Autopilot](https://ber.sh)
