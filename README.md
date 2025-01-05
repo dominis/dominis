@@ -16,8 +16,3 @@
 > - Designed and implemented automated load-testing for an energy company
 > - Scaled infrastructure for Europe’s largest payment processor
 
-
-## defaced by d0m1n1s
-![looked](https://github.com/user-attachments/assets/9f5063c5-5bde-4462-831c-4a969bce3304)
-
-
