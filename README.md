@@ -1,7 +1,8 @@
-# Hello 👋
+
 
 > [!NOTE]
-> # About:
+> # Welcome 👋,
+> ## My name is dOMiNiS, and here’s what I’ve been up to:
 > - 20+ years of experience in large-scale infrastructure and cloud architecture  
 > - Founded a hosting company and built a video streaming engine with bare-metal infrastructure  
 > - Built infrastructure for the world’s largest blog network  
