@@ -10,7 +10,7 @@
 > - Founding a hosting company and building a video streaming engine with bare-metal infrastructure.  
 > - Developing infrastructure for the world’s largest blog network.  
 > - Designing a geo load-balancing layer for global traffic optimization.  
-> - Deploying full-stack systems for Europe’s largest TV streaming platform.  
+> - Deploying full-stack systems for Europe’s largest broadcasting platform.  
 > - Leading the development of a face recognition startup, processing 125M faces from 25M videos.  
 > - Automating L1 incident management at scale for a major enterprise.  
 > - Scaling infrastructure for a smart lock company owned by the world’s largest lock manufacturer.  
