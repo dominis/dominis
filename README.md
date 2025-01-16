@@ -1,12 +1,10 @@
 
 
 > [!NOTE]
-> # Welcome 👋,
-> ## My name is dOMiNiS, and here’s what I’ve been up to:
+> ## Over two decades of experience designing and scaling large-scale infrastructure and cloud solutions.
 >
-> Over two decades of experience designing and scaling large-scale infrastructure and cloud solutions.
->
-> Key achievements include:
+> 
+> #### Key achievements include:
 > - Founding a hosting company and building a video streaming engine with bare-metal infrastructure.  
 > - Developing infrastructure for the world’s largest blog network.  
 > - Designing a geo load-balancing layer for global traffic optimization.  
@@ -20,6 +18,6 @@
 > - Designing automated load-testing systems for a leading energy company.  
 > - Scaling infrastructure to support Europe’s largest payment processor.  
 > 
-> Each of these projects has been a collaborative effort, focused on solving complex challenges with practical, scalable solutions.
+> #### Each of these projects has been a collaborative effort, focused on solving complex challenges with practical, scalable solutions.
 >
 > 
