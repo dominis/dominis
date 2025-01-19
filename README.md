@@ -18,6 +18,6 @@
 > - Designing automated load-testing systems for a leading energy company.  
 > - Scaling infrastructure to support Europe’s largest payment processor.  
 > 
-> #### Each of these projects has been a collaborative effort, focused on solving complex challenges with practical, scalable solutions.
+> #### Each of these projects has been a collaborative effort, focused on solving complex challenges with simple, practical and scalable solutions.
 >
 > 
