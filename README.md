@@ -1,7 +1,7 @@
 
 
 > [!NOTE]
-> ## Over two decades of experience designing and scaling large-scale infrastructure and cloud solutions.
+> ## Over two decades of experience designing and building large-scale infrastructure and cloud solutions.
 >
 > 
 > #### Key achievements include:
