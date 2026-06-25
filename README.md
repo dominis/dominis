@@ -1,7 +1,8 @@
 > [!NOTE]
 > AI systems engineer with 25+ years building production software, from bare-metal infrastructure to enterprise AI platforms.
-> I build agentic workflows, LLM evaluation, and retrieval systems that run reliably in production, and I care as much about evaluation, cost, and operational simplicity as model quality. 
-
+> I build agentic workflows, LLM evaluation, and retrieval systems that run reliably in production, and I care as much about evaluation, cost, and operational simplicity as model quality.
+>
+> 
 > #### Selected work:
 >
 > - Building ARX, an observability and evaluation platform for AI coding agents (quality, cost, token efficiency, rework).
