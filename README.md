@@ -1,23 +1,16 @@
-
-
 > [!NOTE]
-> ## Over two decades of experience designing and building large-scale infrastructure and cloud solutions.
+> AI systems engineer with 25+ years building production software, from bare-metal infrastructure to enterprise AI platforms.
+> I build agentic workflows, LLM evaluation, and retrieval systems that run reliably in production, and I care as much about evaluation, cost, and operational simplicity as model quality. 
 >
-> 
-> #### Key achievements include:
-> - Founding a hosting company and building a video streaming engine with bare-metal infrastructure.  
-> - Developing infrastructure for the world’s largest blog network.  
-> - Designing a geo load-balancing layer for global traffic optimization.  
-> - Deploying full-stack systems for Europe’s largest broadcasting platform.  
-> - Leading the development of a face recognition startup, processing 125M faces from 25M videos.  
-> - Automating L1 incident management at scale for a major enterprise.  
-> - Scaling infrastructure for a smart lock company owned by the world’s largest lock manufacturer.  
-> - Delivering Kubernetes deployments for a large financial institution.  
-> - Managing 900 Cassandra and 300 Solr clusters to ensure high availability and performance.  
-> - Building infrastructure from the ground up for an academic research startup.  
-> - Designing automated load-testing systems for a leading energy company.  
-> - Scaling infrastructure to support Europe’s largest payment processor.  
-> 
-> #### Each of these projects has been a collaborative effort, focused on solving complex challenges with simple, practical and scalable solutions.
+> #### Selected work:
+>
+> - Building ARX, an observability and evaluation platform for AI coding agents (quality, cost, token efficiency, rework).
+> - Built an agentic system to migrate 1000+ domains across 60+ entities, with OCR extraction, validation, human-in-the-loop gates, and evaluation.
+> - Led a face recognition system processing 125M faces from 25M videos, from crawling to embeddings, vector indexing, and similarity search.
+> - Built an autonomous event-driven remediation system that automated L1 incident management at scale for a major bank.
+>
+> Earlier: large-scale cloud and infrastructure for banks, media companies, and Fortune 500 organizations, from Kubernetes platforms to 900+ Cassandra clusters.
+>
+> I solve complex problems with simple, practical, scalable solutions.
 >
 > 
